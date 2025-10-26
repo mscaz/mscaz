@@ -1,8 +1,8 @@
-
+<div align="center">
 
 # “Good programmers copy, great programmers steal. 😐
 'by Ahmed Azeez — who has no clue about programming' 😐
-
+</div>
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mscaz&show_icons=true&theme=dark)
