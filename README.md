@@ -1,5 +1,5 @@
-## Good programmers copy, great programmers steal 😐
-"Ahmed Azeez, don't know a heck about programming"
+## “Good programmers copy, great programmers steal 😐
+Ahmed Azeez — doesn’t know a heck about programming.”
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mscaz&show_icons=true&theme=tokyonight) 
 
