@@ -1,8 +1,5 @@
-## Hi there 👋
-
-
 ## Good programmers copy, great programmers steal👋
-## "Ahmed Azeez, don't know a heck about programming"
+"Ahmed Azeez, don't know a heck about programming"
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mscazmy&show_icons=true&theme=tokyonight) [![Nekocat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mscazmy&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
