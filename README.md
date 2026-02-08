@@ -7,11 +7,7 @@
 </div>
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mscaz&show_icons=true&theme=dark)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mscaz&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mscaz&layout=compact&theme=dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mscaz)](https://git.io/streak-stats)
 
