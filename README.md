@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# “Good programmers copy, great programmers steal. 😐😐
+# "Good programmers copy, great programmers steal." 😐😐
 
 </div>
 <div align="center">
