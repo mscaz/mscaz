@@ -2,8 +2,8 @@
 
 <div align="center">
 
-# “Good programmers copy, great programmers steal. 😐
-'by Ahmed Azeez — who has no clue about programming' 😐
+# “Good programmers copy, great programmers steal. 😐😐
+
 </div>
 <div align="center">
   
